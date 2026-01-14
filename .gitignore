@@ -1,0 +1,6 @@
+*.wav
+*.flac
+*.aiff
+*.mp3
+/audio/
+/tmp/
